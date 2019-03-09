@@ -1,4 +1,4 @@
-<center> [![VA banner](https://raw.githubusercontent.com/MostFun0/VBOX/master/picture/vbox.png)](https://github.com/MostFun0/VBOX)</center>
+[![VA banner](https://raw.githubusercontent.com/MostFun0/VBOX/master/picture/vbox.png)](https://github.com/MostFun0/VBOX)
 
 # Privacy Policy of VBox
 -----------------------
