@@ -1,9 +1,11 @@
-![Image text](https://github.com/MostFun0/VBOX/blob/master/picture/vbox.png)
+<p align='center'>
+<img src='https://github.com/MostFun0/VBOX/blob/master/picture/vbox.png' style='max-width:600px'/>
+</p>
 <br>
 
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture4.jpg">
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture1.jpg">
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture2.jpg">
+<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture4.jpg" width="400"/>
+<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture1.jpg" width="400"/>
+<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture2.jpg" width="400"/>
 
 <br>
 
