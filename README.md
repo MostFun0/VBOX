@@ -3,10 +3,10 @@
 </p>
 <br>
 
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture4.jpg" width="300px" height="500px" />
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture1%20cn.jpg" width="300px" height="500px"/>
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture2%20cn.jpg" width="300px" height="500px" />
-<img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture3%20cn.jpg" width="300px" height="500px" />
+<center class="half">
+    <img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture4.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture1%20cn.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture2%20cn.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/pictur3%20cn.jpg" width="200"/>
+</center>
+
 
 <br>
 
