@@ -3,7 +3,7 @@
 </p>
 <br>
 
-<a href="https://github.com/MostFun0/VBOX/raw/master/apk/%E5%8F%8C%E5%BC%80%E5%BA%94%E7%94%A8.apk" target="_blank">双开应用.apk 下载</a>
+<a href="https://fir.im/dualapp" target="_blank">双开应用.apk 下载</a>
 
 <center class="half">
     <img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture4.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture1%20cn.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture2%20cn.jpg" width="200"/><img src="https://github.com/MostFun0/VBOX/blob/master/picture/picture3%20cn.jpg" width="200"/>
